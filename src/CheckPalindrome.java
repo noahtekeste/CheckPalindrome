@@ -29,10 +29,10 @@ public class CheckPalindrome {
     		index = index-1;//decrementing pointer starting from the last character
     	}
     	if(count==A.length()){
-    		System.out.println("Yes");
+    		System.out.println("Palindrome found");
     	}
     	else{
-    		System.out.println("No");
+    		System.out.println("Not a Palindrome");
     	}
     	
     }
