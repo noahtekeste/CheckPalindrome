@@ -5,7 +5,7 @@ eg.1
 
 Input: Madam
 
-output: Yes 
+output: Palindrome found 
 
 the above input is palindrome because it is read the same from forward and backward
 
@@ -13,7 +13,7 @@ eg.2
 
 Input: Other
 
-output: No
+output: Palindrome not found
 
 By definition a Palindrome is a word, phrase, number, or other sequence of characters 
 which reads the same backward as forward, such as madam or racecar.(wikipedia)
