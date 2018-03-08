@@ -12,7 +12,7 @@ public class CheckPalindrome {
     public static void main(String[] args) {
         
         Scanner input=new Scanner(System.in);
-        System.out.println("Enter a string to check ");
+        System.out.println("Enter-a-string-to-check ");
         String A=input.next();
         checkPalindrome(A.toLowerCase());
     }
